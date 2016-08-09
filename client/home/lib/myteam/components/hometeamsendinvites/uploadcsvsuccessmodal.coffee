@@ -1,6 +1,6 @@
 _  = require 'lodash'
 kd = require 'kd'
-ContentModal = require 'app/components/contentmodal'
+ContentModal = require 'app/components/contentModal'
 
 module.exports = class UploadCSVSuccessModal extends ContentModal
 
